@@ -1,0 +1,2 @@
+This project is a comprehensive data analysis endeavor that delves into Twitter data to extract, analyze, and visualize public sentiment towards major brands and topics. By processing thousands of tweets, the project classifies emotions into positive, negative, and neutral categories and provides deep insights into brand perception, consensus, and controversy across different entities.
+The final output includes a series of clear, impactful visualizations that tell a data-driven story about public opinion, making it a valuable tool for brand management and market analysis.
