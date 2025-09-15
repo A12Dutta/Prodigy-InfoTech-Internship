@@ -1,0 +1,1 @@
+This project conducts an in-depth exploratory data analysis (EDA) on the massive US Accidents Dataset, comprising over **7.7 million records** from February 2016 to March 2023. The goal was to identify critical patterns and contributing factors related to traffic accidents, focusing on temporal trends, weather conditions, road infrastructure, and geographic hotspots.
